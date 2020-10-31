@@ -86,7 +86,7 @@
  
   "Setting": {
     "MainColor": "#F2DFCE",
-    "ProductListLayout": "list"
+    "ProductListLayout": "card"
   },
   "TabBar": [
     {
