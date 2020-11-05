@@ -1,6 +1,6 @@
 {
   "HorizonLayout": [
-     {
+    {
       "layout": "bannerImage",
       "isSlider": true,
       "showBackground": true,
@@ -9,18 +9,18 @@
       "radius": 20.0,
       "fontSize": 26.0,
       "items": [
-         {
-        
+        {
+          "product_id" : 7229,
           "background": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/123572100_141822834313472_1081454196711810732_n.jpg?_nc_cat=108&ccb=2&_nc_sid=8024bb&_nc_ohc=Gsl1WTyQUK4AX-uBdA9&_nc_ht=scontent.fbah1-1.fna&oh=8916e050824c1918b28fa9818caf74a2&oe=5FC91CE4",
           "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/122743454_137152694780486_43406750721977816_o.jpg?_nc_cat=102&ccb=2&_nc_sid=8024bb&_nc_ohc=U1mcCGQwCHMAX9cBngv&_nc_ht=scontent.fbah1-1.fna&oh=77a593ab3430f62b49e9261c7033469b&oe=5FC76D9E"
         },
         {
-          
+          "product_id" : 7227,
           "background": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/123864948_142264607602628_1488673981117416517_n.jpg?_nc_cat=103&ccb=2&_nc_sid=8024bb&_nc_ohc=tZCB4m0Akx8AX8UrE__&_nc_ht=scontent.fbah1-1.fna&oh=bd60c8edf1686ca825240a1f03dd9e28&oe=5FC8355D",
           "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/s960x960/122725622_137152698113819_5541540452681458839_o.jpg?_nc_cat=102&ccb=2&_nc_sid=8024bb&_nc_ohc=Qoma_Hg55vgAX_OWiiv&_nc_ht=scontent.fbah1-1.fna&tp=7&oh=8c136a9aaebd107beaf01780c5c1d264&oe=5FB9E6DF"
         },
         {
-          
+          "product_id" : 7225,
           "background": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/123658993_142264610935961_1948381273099072143_n.jpg?_nc_cat=104&ccb=2&_nc_sid=8024bb&_nc_ohc=m-vNPal4Hd8AX-qvGv8&_nc_ht=scontent.fbah1-1.fna&oh=0c5885b00a206f3063361be93035cfb2&oe=5FC8E169",
           "image": "https://scontent.fbah1-1.fna.fbcdn.net/v/t1.0-9/s960x960/122745951_137152741447148_976135573237082743_o.jpg?_nc_cat=105&ccb=2&_nc_sid=8024bb&_nc_ohc=O3sd8LTc4jgAX-G1d30&_nc_ht=scontent.fbah1-1.fna&tp=7&oh=330f77566afb105a4e7d25bf678e23e4&oe=5FBC7FBD"
         }
@@ -83,7 +83,7 @@
       ]
     }
   ],
- 
+
   "Setting": {
     "MainColor": "#F2DFCE",
     "ProductListLayout": "card"
@@ -93,7 +93,7 @@
       "layout": "home",
       "icon": "assets/icons/tabs/icon-home.png"
     },
-   
+
     {
       "layout": "cart",
       "icon": "assets/icons/tabs/icon-cart2.png"
