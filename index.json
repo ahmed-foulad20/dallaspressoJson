@@ -9,28 +9,23 @@
       "radius": 20.0,
       "fontSize": 26.0,
       "items": [
-        {
-          "background": "https://iili.io/FV1LLQ.jpg",
-          "image": "https://iili.io/FVVL91.jpg",
-         "image_ar":"https://iili.io/FVVL91.jpg"
-        },
          {
           "product_id" : 7227,
-          "background": "https://iili.io/FV1DrP.jpg",
-          "image": "https://iili.io/FVVZwg.jpg",
-         "image_ar":"https://iili.io/FVVZwg.jpg"
+          "background": "https://iili.io/F2S0Ol.jpg",
+          "image": "https://iili.io/F2SlR4.jpg",
+         "image_ar":"https://iili.io/F2SlR4.jpg"
         },
          {
           "product_id" : 7225,
           "background": "https://iili.io/FV1ykg.jpg",
-          "image": "https://iili.io/FVVboJ.jpg",
-         "image_ar":"https://iili.io/FVVboJ.jpg"
+          "image": "https://iili.io/F2SMW7.jpg",
+         "image_ar":"https://iili.io/F2S1b2.jpg"
         },
          {
           "product_id" : 7229,
-          "background": "https://iili.io/FVEFBp.jpg",
-          "image": "https://iili.io/FVWJSI.jpg",
-         "image_ar":"https://iili.io/FVWJSI.jpg"
+          "background": "https://iili.io/F2ScJf.jpg",
+          "image": "https://iili.io/F2SXfe.jpg",
+         "image_ar":"https://iili.io/F2SXfe.jpg"
         }
      
       ]
