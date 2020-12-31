@@ -11,10 +11,10 @@
       "items": [
          {
            
-        "product_id" :  52,
         "category": 52, 
-          "background": "https://iili.io/KkQqTN.jpg",
-          "image": "https://iili.io/KkQCQt.jpg",
+        "product_id" :  52,
+          "background": "https://iili.io/KkQCQt.jpg",
+          "image": "https://iili.io/KkQqTN.jpg",
          "image_ar":"https://iili.io/KkQCQt.jpg"
         }
      
