@@ -70,6 +70,19 @@
         }
       ]
     },
+     {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 52, 
+          "category_ar": 113,
+          "image": "https://iili.io/KkQr9R.jpg",
+          "padding": 15.0,
+           "image_ar" : "https://iili.io/KkQ4up.jpg",
+          "radius": 20.0
+        }
+      ]
+    },
     {
       "layout": "bannerImage",
       "items": [
