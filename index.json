@@ -12,7 +12,7 @@
          {
            
         "category": 52, 
-        
+        "category_ar": 94,
           "background":"https://iili.io/KkQqTN.jpg",
           "image": "https://iili.io/KkQCQt.jpg",
          "image_ar":"https://iili.io/KkQCQt.jpg"
@@ -77,7 +77,7 @@
       "items": [
         {
           "category": 52, 
-          "category_ar": 113,
+          "category_ar": 94,
           "image": "https://iili.io/KkQr9R.jpg",
           "padding": 15.0,
            "image_ar" : "https://iili.io/KkQ4up.jpg",
